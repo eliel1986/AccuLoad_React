@@ -159,7 +159,7 @@ body {
 
 @media screen and (min-width: 401px) and (max-width: 600px) {
     .tela {
-        width: 350px;
+        width: 330px;
         height: 120px;
         background-color: black;
         border: 2px solid #555;
@@ -184,18 +184,18 @@ body {
     div.header {
         position: absolute;
         margin-top: 10px;
-        font-size: 16px;
+        font-size: 18px;
     }
 
     div.content {
         position: absolute;
         margin-top: 40px;
-        font-size: 16px;
+        font-size: 18px;
     }
 
     div.footer {
         position: absolute;
-        margin-top: 80px;
+        margin-top: 78px;
         font-size: 14px;
     }
 
@@ -261,7 +261,7 @@ body {
     .teclado {
         padding-top: 20px;
         margin-top: 28px;
-        width: 350px;
+        width: 330px;
         height: 250px;
         background-color: black;
         border: 2px solid #555;
@@ -274,11 +274,11 @@ body {
         justify-content: center;
     }
         button {
-        width: 56px;
+        width: 52px;
         height: 44px;
         background-color: white;
         color: black;
-        font-size: 20px;
+        font-size: 18px;
         font-style: italic;
         display: flex;
         justify-content: center;
