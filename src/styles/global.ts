@@ -159,7 +159,7 @@ body {
 
 @media screen and (min-width: 401px) and (max-width: 600px) {
     .tela {
-        width: 380px;
+        width: 350px;
         height: 120px;
         background-color: black;
         border: 2px solid #555;
@@ -211,7 +211,7 @@ body {
     div.lowerLeft {
         width: 120px;
         position: absolute;
-        margin-top: 40px;
+        margin-top: 44px;
         margin-left: -155px;
         font-size: 14px;
         text-align: center;
@@ -230,7 +230,7 @@ body {
     div.upperRight {
         width: 130px;
         position: absolute;
-        margin-top: 0px;
+        margin-top: 2px;
         margin-left: 34px;
         font-size: 12px;
         text-align: center;
@@ -239,7 +239,7 @@ body {
     div.middleRight {
         width: 130px;
         position: absolute;
-        margin-top: 30px;
+        margin-top: 32px;
         margin-left: 34px;
         font-size: 12px;
         text-align: center;
@@ -248,7 +248,7 @@ body {
     div.lowerRight {
         width: 130px;
         position: absolute;
-        margin-top: 60px;
+        margin-top: 62px;
         margin-left: 34px;
         font-size: 12px;
         text-align: center;
@@ -261,7 +261,7 @@ body {
     .teclado {
         padding-top: 20px;
         margin-top: 28px;
-        width: 380px;
+        width: 350px;
         height: 250px;
         background-color: black;
         border: 2px solid #555;
