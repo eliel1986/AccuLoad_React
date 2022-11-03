@@ -38,7 +38,7 @@ body {
     }
 
     div.display {
-        width: 250px;
+        width: 220px;
         background-color: #639033;
         display: flex;
         border-radius: 8px;
@@ -50,13 +50,13 @@ body {
     div.header {
         position: absolute;
         margin-top: 10px;
-        font-size: 13px;
+        font-size: 14px;
     }
 
     div.content {
         position: absolute;
         margin-top: 38px;
-        font-size: 13px;
+        font-size: 14px;
     }
 
     div.footer {
@@ -69,7 +69,7 @@ body {
         width: 120px;
         position: absolute;
         margin-top: 5px;
-        margin-left: -145px;
+        margin-left: -135px;
         font-size: 12px;
         text-align: center;
     }
@@ -78,7 +78,7 @@ body {
         width: 120px;
         position: absolute;
         margin-top: 38px;
-        margin-left: -145px;
+        margin-left: -135px;
         font-size: 12px;
         text-align: center;
     }
@@ -86,7 +86,7 @@ body {
     div.percent {
         width: 60px;
         position: absolute;
-        margin-top: 45px;
+        margin-top: 53px;
         margin-left: -25px;
         font-size: 12px;
         text-align: center;
@@ -96,27 +96,27 @@ body {
     div.upperRight {
         width: 130px;
         position: absolute;
-        margin-top: 2px;
-        margin-left: 26px;
-        font-size: 11px;
+        margin-top: 4px;
+        margin-left: 4px;
+        font-size: 9px;
         text-align: center;
     }
 
     div.middleRight {
         width: 130px;
         position: absolute;
-        margin-top: 28px;
-        margin-left: 26px;
-        font-size: 11px;
+        margin-top: 25px;
+        margin-left: 4px;
+        font-size: 9px;
         text-align: center;
     }
 
     div.lowerRight {
         width: 130px;
         position: absolute;
-        margin-top: 56px;
-        margin-left: 26px;
-        font-size: 11px;
+        margin-top: 46px;
+        margin-left: 4px;
+        font-size: 9px;
         text-align: center;
     }
 
@@ -128,7 +128,7 @@ body {
         padding-top: 20px;
         margin-top: 28px;
         width: 280px;
-        height: 240px;
+        height: 230px;
         background-color: black;
         border: 2px solid #555;
         border-radius: 20px;
@@ -140,11 +140,11 @@ body {
         justify-content: center;
     }
         button {
-            width: 50px;
-            height: 40px;
+            width: 40px;
+            height: 36px;
             background-color: white;
             color: black;
-            font-size: 15px;
+            font-size: 13px;
             font-style: italic;
             display: flex;
             justify-content: center;
