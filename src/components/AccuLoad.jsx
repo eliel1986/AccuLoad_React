@@ -44,25 +44,25 @@ export function AccuLoad() {
 
     const [users, setUsers] = useState(
         [
-            { id: 1, name: 'Eliel' },
-            { id: 2, name: 'Mateus' },
-            { id: 3, name: 'Luan' },
-            { id: 4, name: 'Maria' },
-            { id: 5, name: 'Felipe' }
+            { id: 1, name: 'User1' },
+            { id: 2, name: 'User2' },
+            { id: 3, name: 'User3' },
+            { id: 4, name: 'User4' },
+            { id: 5, name: 'User5' }
         ]
     );
 
     const [pass, setPass] = useState(
         [
-            { id: 1, product: "Gasolina 'A'", company: 'BR', vol: '30', flow: '1800' },
-            { id: 2, product: "Gasolina 'C'", company: 'Shell', vol: '10000', flow: '2000' },
-            { id: 3, product: "Etanol Hidratado", company: 'Ipiranga', vol: '50', flow: '1800' },
-            { id: 4, product: "Diesel 'A' S10", company: 'BR', vol: '30', flow: '1800' },
-            { id: 5, product: "Diesel 'B' S10", company: 'Shell', vol: '50', flow: '2000' },
-            { id: 6, product: "Diesel 'A' S500", company: 'BR', vol: '30', flow: '1800' },
-            { id: 7, product: "Diesel 'B' S500", company: 'Shell', vol: '50', flow: '2000' },
-            { id: 8, product: "Biodiesel", company: 'Potencial', vol: '20', flow: '800' },
-            { id: 9, product: "Etanol Anidro", company: 'Ipiranga', vol: '20', flow: '800' }
+            { id: 1, product: "Gasolina 'A'", company: 'Terminal 01', vol: '30', flow: '1800' },
+            { id: 2, product: "Gasolina 'C'", company: 'Terminal 01', vol: '1000', flow: '2000' },
+            { id: 3, product: "Etanol Hidratado", company: 'Terminal 01', vol: '50', flow: '1800' },
+            { id: 4, product: "Diesel 'A' S10", company: 'Terminal 01', vol: '30', flow: '1800' },
+            { id: 5, product: "Diesel 'B' S10", company: 'Terminal 01', vol: '50', flow: '2000' },
+            { id: 6, product: "Diesel 'A' S500", company: 'Terminal 01', vol: '30', flow: '1800' },
+            { id: 7, product: "Diesel 'B' S500", company: 'Terminal 01', vol: '50', flow: '2000' },
+            { id: 8, product: "Biodiesel", company: 'Terminal 01', vol: '20', flow: '800' },
+            { id: 9, product: "Etanol Anidro", company: 'Terminal 01', vol: '20', flow: '800' }
         ]
     );
 
