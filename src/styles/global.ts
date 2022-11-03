@@ -25,7 +25,7 @@ body {
 
 @media screen and (min-width: 200px) and (max-width: 400px) {
     .tela {
-        width: 320px;
+        width: 280px;
         height: 110px;
         background-color: black;
         border: 2px solid #555;
@@ -127,7 +127,7 @@ body {
     .teclado {
         padding-top: 20px;
         margin-top: 28px;
-        width: 320px;
+        width: 280px;
         height: 240px;
         background-color: black;
         border: 2px solid #555;
